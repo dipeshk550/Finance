@@ -1,0 +1,27 @@
+{
+  "app_name": "एनजीओ वित्त व्यवस्थापन प्रणाली",
+  "organization": "ॐ सत्सङ्ग परिवार",
+  "nav": { "dashboard": "ड्यासबोर्ड", "donors": "दाताहरू", "donations": "दान", "income": "आम्दानी", "expenses": "खर्च", "statement": "विवरण", "logout": "लगआउट" },
+  "auth": {
+    "login": "लगइन", "email": "इमेल", "password": "पासवर्ड", "login_button": "साइन इन गर्नुहोस्",
+    "welcome_back": "पुनः स्वागत छ", "login_subtitle": "आफ्नो संस्थाको वित्त व्यवस्थापन गर्न साइन इन गर्नुहोस्"
+  },
+  "dashboard": {
+    "title": "ड्यासबोर्ड", "total_income": "कुल आम्दानी", "total_expenses": "कुल खर्च", "net_balance": "खुद मौज्दात",
+    "restricted_funds": "सीमित कोष", "unrestricted_funds": "असीमित कोष",
+    "today_income": "आजको आम्दानी", "today_expense": "आजको खर्च",
+    "monthly_income": "मासिक आम्दानी", "monthly_expense": "मासिक खर्च", "total_donors": "कुल दाताहरू",
+    "recent_donations": "हालका दानहरू", "recent_expenses": "हालका खर्चहरू",
+    "income_vs_expense": "आम्दानी बनाम खर्च (६ महिना)", "expense_by_category": "श्रेणी अनुसार खर्च"
+  },
+  "common": {
+    "add_new": "नयाँ थप्नुहोस्", "search": "खोज्नुहोस्...", "actions": "कार्यहरू", "edit": "सम्पादन", "delete": "मेटाउनुहोस्",
+    "save": "सुरक्षित गर्नुहोस्", "cancel": "रद्द गर्नुहोस्", "status": "स्थिति", "date": "मिति", "amount": "रकम",
+    "loading": "लोड हुँदैछ...", "no_data": "कुनै रेकर्ड फेला परेन", "confirm_delete": "के तपाईं यो रेकर्ड मेटाउन निश्चित हुनुहुन्छ?",
+    "yes_delete": "हो, मेटाउनुहोस्", "download": "डाउनलोड", "view": "हेर्नुहोस्"
+  },
+  "donors": { "title": "दाताहरू", "full_name": "पूरा नाम", "phone": "फोन", "country": "देश", "lifetime_donation": "आजीवन दान" },
+  "donations": { "title": "दान", "donor": "दाता", "payment_method": "भुक्तानी विधि", "fund_type": "कोष प्रकार", "restricted": "सीमित", "unrestricted": "असीमित" },
+  "income": { "title": "आम्दानी", "source": "स्रोत", "category": "श्रेणी" },
+  "expenses": { "title": "खर्च", "expense_number": "खर्च नं", "category": "श्रेणी", "vendor": "विक्रेता", "receipt": "रसिद" }
+}
