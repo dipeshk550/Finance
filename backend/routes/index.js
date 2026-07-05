@@ -11,7 +11,7 @@ const router = Router()
 
 router.get('/', (req, res) => {
   res.json({
-    app: 'NGO Finance Management System API',
+    app: 'Finance Management System API',
     organization: 'Om Satsang Parivar',
     status: 'running',
   })

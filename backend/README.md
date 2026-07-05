@@ -1,4 +1,4 @@
-# NGO Finance Management System — Backend (Node.js + Express + MongoDB)
+# Finance Management System — Backend (Node.js + Express + MongoDB)
 
 Om Satsang Parivar
 

@@ -1,4 +1,4 @@
-# NGO Finance Management System
+# Finance Management System
 ### ॐ सत्सङ्ग परिवार (Om Satsang Parivar)
 
 Full-stack finance management system built on the **MERN stack**: Node.js + Express + MongoDB

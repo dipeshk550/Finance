@@ -1,5 +1,5 @@
 {
-  "app_name": "NGO Finance Management System",
+  "app_name": "Finance Management System",
   "organization": "Om Satsang Parivar",
   "nav": { "dashboard": "Dashboard", "donors": "Donors", "donations": "Donations", "income": "Income", "expenses": "Expenses", "statement": "Statement", "logout": "Logout" },
   "auth": {

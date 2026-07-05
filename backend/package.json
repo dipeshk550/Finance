@@ -1,7 +1,7 @@
 {
   "name": "ngo-finance-backend",
   "version": "1.0.0",
-  "description": "NGO Finance Management System API - Om Satsang Parivar (MERN)",
+  "description": "Finance Management System API - Om Satsang Parivar (MERN)",
   "type": "module",
   "main": "server.js",
   "scripts": {

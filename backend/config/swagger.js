@@ -4,9 +4,9 @@ export const swaggerSpec = swaggerJSDoc({
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'NGO Finance Management System API',
+      title: 'Finance Management System API',
       version: '1.0.0',
-      description: 'API for Om Satsang Parivar NGO Finance Management System',
+      description: 'API for Om Satsang Parivar Finance Management System',
     },
     servers: [{ url: '/api' }],
     components: {
